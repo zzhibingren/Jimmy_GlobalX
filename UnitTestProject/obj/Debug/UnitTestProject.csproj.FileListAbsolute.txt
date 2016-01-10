@@ -1,0 +1,9 @@
+D:\VSProjects\WindowsFormsCSharp\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\VSProjects\WindowsFormsCSharp\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\VSProjects\WindowsFormsCSharp\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\VSProjects\WindowsFormsCSharp\UnitTestProject\bin\Debug\Ninject.dll
+D:\VSProjects\WindowsFormsCSharp\UnitTestProject\bin\Debug\Ninject.xml
+D:\VSProjects\WindowsFormsCSharp\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\VSProjects\WindowsFormsCSharp\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\VSProjects\WindowsFormsCSharp\UnitTestProject\bin\Debug\ContentReader.exe
+D:\VSProjects\WindowsFormsCSharp\UnitTestProject\bin\Debug\ContentReader.pdb

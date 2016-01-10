@@ -1,0 +1,7 @@
+D:\VSProjects\WindowsFormsCSharp\ContentReader\bin\Debug\ContentReader.exe.config
+D:\VSProjects\WindowsFormsCSharp\ContentReader\bin\Debug\ContentReader.exe
+D:\VSProjects\WindowsFormsCSharp\ContentReader\bin\Debug\ContentReader.pdb
+D:\VSProjects\WindowsFormsCSharp\ContentReader\bin\Debug\Ninject.dll
+D:\VSProjects\WindowsFormsCSharp\ContentReader\bin\Debug\Ninject.xml
+D:\VSProjects\WindowsFormsCSharp\ContentReader\obj\Debug\ContentReader.exe
+D:\VSProjects\WindowsFormsCSharp\ContentReader\obj\Debug\ContentReader.pdb
